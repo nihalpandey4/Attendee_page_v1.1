@@ -1,0 +1,19 @@
+.frame {
+  display: flex;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+}
+
+.button .btn {
+  align-self: center;
+  color: white;
+  background-color: #1762A7;
+  padding: .75rem 1.5rem;
+  border-radius: .5rem;
+  text-decoration: none;
+  font-size: .9rem;
+  margin-top: 10px;
+}
